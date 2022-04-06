@@ -1,4 +1,8 @@
 # API-Bitcoin
+<<<<<<< HEAD
+
+
+
 
 
 Getting the Bitcoin price by text alerts

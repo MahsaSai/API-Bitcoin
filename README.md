@@ -1,4 +1,5 @@
 # API-Bitcoin
 
-Getting the Bitcoin price by text alerts
-Using a api link of a smsserver (REST API)
+•	In this script we can get the updated Bitcoin price by text message
+•	Need to use a smsserver
+•	REST API
